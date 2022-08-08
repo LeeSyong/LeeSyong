@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I am Lee Sunkyung 👋
+
+👩‍💻 I'm a junior front end developer.
+
+🌱 I’m currently learning Javascript and React.
+
+📫 How to reach me: jejelsk27@naver.com
 
 <!--
 **LeeSyong/LeeSyong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
